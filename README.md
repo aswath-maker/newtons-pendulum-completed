@@ -1,2 +1,2 @@
-# newtons-pendulum-completed
-press space to get that pendulum effect. I hope you like it.
+# p5.play-boilerplate
+Boiler plate for p5.play
